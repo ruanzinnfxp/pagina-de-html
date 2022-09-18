@@ -5,7 +5,10 @@ h1 {
    text-align: center"
 p {
     text-align: center;
-   } 
+  } 
+#missao{
+  font-size: 20px
+  } 
  strong {
        color:#FF0000;
-        }
+  }
