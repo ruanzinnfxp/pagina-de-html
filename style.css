@@ -1,11 +1,10 @@
+body{
+     background: #CCCCCC
+ }
 p {
     text-align: center;
     background: #CCCCCC
    } 
- body{background-color:rgb(216,112,147)#240ab9;justify;font size x 18px;}
-h1{text-align:center;background-color:#000000;color:rgb(1, 51, 216);}
-h3{text-align: justify;color: rgb(216,112,147);}
-b{color: rgb(1, 51, 216);font-size: 18px;}
-i{color: rgb(216,112,147);font-size: 18px;}
-header,footer{background-color:rgb(216,102,102);color:rgb(1, 51, 216);text-align
-main {background-color: rgb(218,130,15):}
+ strong {
+       color: red;
+ }
